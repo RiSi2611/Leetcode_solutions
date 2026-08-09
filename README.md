@@ -4,7 +4,7 @@ My solutions to LeetCode problems, primarily written in C++.
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/simylyf?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/risimlyf?theme=dark&font=baloo)
 
 ## 🧠 Topics
 
