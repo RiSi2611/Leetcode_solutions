@@ -4,9 +4,9 @@ public:
         int n= grid.size();
         int m = grid[0].size();
         int st= x;int end = x+k-1;
-        if(k==1){
-            return grid;
-        }
+        // if(k==1){
+        //     return grid;
+        // }
         while(st<end){
             for(int i=y; i<y+k;i++){
                 swap(grid[st][i],grid[end][i]);
