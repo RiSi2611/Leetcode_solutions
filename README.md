@@ -25,6 +25,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -46,6 +47,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -92,4 +94,28 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
