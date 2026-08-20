@@ -24,6 +24,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -128,4 +129,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
