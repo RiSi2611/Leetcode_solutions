@@ -30,6 +30,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -123,4 +124,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
