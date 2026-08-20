@@ -26,6 +26,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -39,6 +40,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +53,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -86,6 +89,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -102,6 +106,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -136,4 +141,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
