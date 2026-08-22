@@ -32,6 +32,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +72,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
