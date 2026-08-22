@@ -84,6 +84,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0007-reverse-integer](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
