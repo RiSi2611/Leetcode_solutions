@@ -4,38 +4,48 @@ public:
         int m = nums1.size();
         int n = nums2.size();
 
-        vector<double> merged ;
+        if (m > n) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
-        int i =0 ; int j =0;
-        while( i < m && j < n){
-            if(nums1[i] < nums2[j]){
-                merged.push_back(nums1[i]);
-                i++ ;
+        if (m == 0) {
+            if (n % 2 == 1)
+                return (nums2[n / 2]);
+            else
+                return (nums2[n / 2 - 1] + nums2[n / 2]) / 2.0;
+        }
+        if (n == 0) {
+            if (m % 2 == 1)
+                return (nums1[m / 2]);
+            else
+                return (nums1[m / 2 - 1] + nums1[m / 2]) / 2.0;
+        }
+
+        int leftSize = (m + n + 1) / 2;
+        int low = 0, high = m;
+
+        while (low <= high) {
+            int partition1 = low + (high - low) / 2;
+            int partition2 = leftSize - partition1;
+
+            int left1 = (partition1 == 0) ? INT_MIN : nums1[partition1 - 1];
+            int right1 = (partition1 == m) ? INT_MAX : nums1[partition1];
+
+            int left2 = (partition2 == 0) ? INT_MIN : nums2[partition2 - 1];
+            int right2 = (partition2 == n) ? INT_MAX : nums2[partition2];
+
+            if (left1 > right2) {
+                high = partition1 - 1;
+            } else if (left2 > right1) {
+                low = partition1 + 1;
+            } else {
+                if ((m + n) % 2 == 1) {
+                    return max(left1, left2);
+                } else {
+                    return ((max(left1, left2)) + (min(right1, right2))) / 2.0;
+                }
             }
-            else{
-                merged.push_back(nums2[j]);
-                j++;
-            }
         }
-        while( i < m){
-            merged.push_back(nums1[i]);
-            i++ ;
-        }
-        while( j < n){
-            merged.push_back(nums2[j]);
-            j++ ;
-        }
-        int a = merged.size();
-        if(a==1) return merged[0];
-        double median ; 
-        if(a %2 == 1){
-            median = merged[a/2];
-            return median;
-        }
-        else{
-           
-            median = (merged[a/2]+ merged[a/2 -1]) /2 ;
-            return median;
-        }
+        return -1;
     }
 };
