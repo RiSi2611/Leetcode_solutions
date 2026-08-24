@@ -26,6 +26,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -166,4 +167,12 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
