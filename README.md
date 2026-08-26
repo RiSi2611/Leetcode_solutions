@@ -33,6 +33,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0238-product-of-array-except-self](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -157,6 +158,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -177,4 +179,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
