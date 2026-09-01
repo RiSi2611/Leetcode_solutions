@@ -33,6 +33,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +86,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
