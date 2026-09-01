@@ -28,6 +28,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -66,6 +67,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -79,6 +81,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -202,4 +205,12 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
