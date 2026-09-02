@@ -25,6 +25,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -84,6 +85,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0283-move-zeroes) |
