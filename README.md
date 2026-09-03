@@ -99,6 +99,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0088-merge-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -110,6 +111,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
