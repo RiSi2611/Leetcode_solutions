@@ -58,6 +58,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [3903-smallest-stable-index-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
