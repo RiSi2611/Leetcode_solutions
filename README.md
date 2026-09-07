@@ -30,6 +30,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0007-reverse-integer](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
