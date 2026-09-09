@@ -114,6 +114,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -256,4 +257,12 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
