@@ -57,6 +57,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -135,6 +136,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1401-circle-and-rectangle-overlapping](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2235-add-two-integers) |
+| [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -204,6 +206,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Simulation
 |  |
 | ------- |
