@@ -51,6 +51,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1470-shuffle-the-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -73,6 +74,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0496-next-greater-element-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -124,6 +126,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
