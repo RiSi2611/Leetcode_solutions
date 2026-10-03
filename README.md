@@ -126,6 +126,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -210,6 +211,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
@@ -282,6 +284,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
@@ -289,6 +292,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
