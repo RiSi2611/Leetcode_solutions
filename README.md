@@ -129,6 +129,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -291,6 +292,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0496-next-greater-element-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -298,6 +300,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0022-generate-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
