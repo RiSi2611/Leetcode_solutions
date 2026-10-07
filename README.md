@@ -127,6 +127,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0020-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
@@ -258,6 +259,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0022-generate-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
@@ -314,4 +316,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
