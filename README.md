@@ -55,6 +55,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1929-concatenation-of-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -96,6 +97,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -164,6 +166,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
@@ -199,6 +202,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -242,6 +246,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0410-split-array-largest-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
